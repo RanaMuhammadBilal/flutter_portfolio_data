@@ -23,6 +23,13 @@
   },
   {
     "imageLinks": [
+      "https://iili.io/K4D4Ev9.png"
+    ],
+    "appName": "Angela Speak",
+    "appDesc": "An advanced AI voice assistant built with Flutter, powered by ChatGPT 4.1. Features natural conversation through Speech-to-Text/Text-to-Speech, remembers past interactions for continuous dialogue (data persistence), supports Dark Mode, and uses MVVM architecture for clean code. Includes custom animations for an engaging UI."
+  },
+  {
+    "imageLinks": [
       "https://iili.io/K66iWHN.png"
     ],
     "appName": "Echo Notes",
@@ -30,3 +37,4 @@
     "github": "https://github.com/RanaMuhammadBilal/echo_notes.git"
   }
 ]
+
