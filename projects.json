@@ -29,6 +29,15 @@
     "appDesc": "A smart, voice-powered note-taking app built with Flutter. It streamlines note-taking by offering both typing and instant Speech-to-Text transcription. Features include fast, offline storage via Hive Database, Text-to-Speech playback, Dark Mode, and real-time search. Utilizes Provider for efficient state management.",
     "github": "https://github.com/RanaMuhammadBilal/echo_notes.git"
   }
+  {
+    "imageLinks": [
+      "https://iili.io/K66iWHN.png"
+    ],
+    "appName": "Echo Notes",
+    "appDesc": "A smart, voice-powered note-taking app built with Flutter. It streamlines note-taking by offering both typing and instant Speech-to-Text transcription. Features include fast, offline storage via Hive Database, Text-to-Speech playback, Dark Mode, and real-time search. Utilizes Provider for efficient state management.",
+    "github": "https://github.com/RanaMuhammadBilal/echo_notes.git"
+  }
 ]
+
 
 
