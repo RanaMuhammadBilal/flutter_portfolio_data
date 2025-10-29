@@ -1,8 +1,9 @@
 [
   {
     "imageLinks": [
-      "https://iili.io/KXWpuls.png",
-      "https://iili.io/KXWpuLs.png"
+      "https://iili.io/KPMaU9S.png",
+      "https://iili.io/KPMa4te.png",
+      "https://iili.io/KPMarN9.png"
     ],
     "appName": "E Store Mobile & Desktop",
     "appDesc": "Developed a complete e-commerce solution consisting of a customer-facing mobile app and an admin desktop panel using Flutter. The mobile app enables users to browse products, add them to cart, and place orders with secure Firebase Authentication and real-time Supabase integration for data handling. The admin desktop app allows administrators to manage users, products, and orders with role-based access control and a clean, responsive dashboard interface, ensuring smooth management and a seamless shopping experience."
@@ -30,6 +31,7 @@
     "github": "https://github.com/RanaMuhammadBilal/echo_notes.git"
   }
 ]
+
 
 
 
