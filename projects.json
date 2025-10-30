@@ -35,9 +35,10 @@
       "https://iili.io/KixMK8X.jpg"
     ],
     "appName": "Quick Scanner",
-    "appDesc": "A Flutter-based mobile app that quickly scans QR codes and barcodes using the device camera. It automatically saves each scan in a built-in history list, allowing users to copy, share, or revisit scanned data anytime. Designed with a clean interface and smooth performance for a fast, reliable scanning experience.",
+    "appDesc": "A Flutter-based mobile app that quickly scans QR codes and barcodes using the device camera. It automatically saves each scan in a built-in history list, allowing users to copy, share, or revisit scanned data anytime. Designed with a clean interface and smooth performance for a fast, reliable scanning experience."
   }
 ]
+
 
 
 
