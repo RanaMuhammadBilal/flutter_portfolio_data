@@ -1,36 +1,44 @@
 [
   {
     "imageLinks": [
-      "https://iili.io/KPMrJyB.png",
-      "https://iili.io/KPMrFZF.png",
-      "https://iili.io/KPMr3j1.png"
+      "https://iili.io/KixEXqB.jpg",
+      "https://iili.io/KixGKIj.jpg",
+      "https://iili.io/KixGcEN.jpg"
     ],
     "appName": "E Store Mobile & Desktop",
     "appDesc": "Developed a complete e-commerce solution consisting of a customer-facing mobile app and an admin desktop panel using Flutter. The mobile app enables users to browse products, add them to cart, and place orders with secure Firebase Authentication and real-time Supabase integration for data handling. The admin desktop app allows administrators to manage users, products, and orders with role-based access control and a clean, responsive dashboard interface, ensuring smooth management and a seamless shopping experience."
   },
   {
     "imageLinks": [
-      "https://iili.io/KXWT5sn.png"
+      "https://iili.io/KixMCwG.jpg"
     ],
     "appName": "News App",
     "appDesc": "Developed a dynamic news application using Flutter that fetches and displays real-time news articles from a REST API. Implemented intuitive category-based filtering, allowing users to easily browse news relevant to their interests. Designed a fully responsive user interface that adapts seamlessly across various screen sizes, including phones, tablets, and web/desktop layouts."
   },
   {
     "imageLinks": [
-      "https://iili.io/K4D4Ev9.png"
+      "https://iili.io/KixMBus.jpg"
     ],
     "appName": "Angela Speak",
     "appDesc": "An advanced AI voice assistant built with Flutter, powered by ChatGPT 4.1. Features natural conversation through Speech-to-Text/Text-to-Speech, remembers past interactions for continuous dialogue (data persistence), supports Dark Mode, and uses MVVM architecture for clean code. Includes custom animations for an engaging UI."
   },
   {
     "imageLinks": [
-      "https://iili.io/K66iWHN.png"
+      "https://iili.io/KixMq9n.jpg"
     ],
     "appName": "Echo Notes",
     "appDesc": "A smart, voice-powered note-taking app built with Flutter. It streamlines note-taking by offering both typing and instant Speech-to-Text transcription. Features include fast, offline storage via Hive Database, Text-to-Speech playback, Dark Mode, and real-time search. Utilizes Provider for efficient state management.",
     "github": "https://github.com/RanaMuhammadBilal/echo_notes.git"
+  },
+  {
+    "imageLinks": [
+      "https://iili.io/KixMK8X.jpg"
+    ],
+    "appName": "Quick Scanner",
+    "appDesc": "A Flutter-based mobile app that quickly scans QR codes and barcodes using the device camera. It automatically saves each scan in a built-in history list, allowing users to copy, share, or revisit scanned data anytime. Designed with a clean interface and smooth performance for a fast, reliable scanning experience.",
   }
 ]
+
 
 
 
